@@ -1,0 +1,119 @@
+Build a clean, professional real-estate website for a local, trust-based real-estate service in India.
+
+Business model:
+This is an offline-first, commission-based real-estate business. Properties are physically verified by the team and presented online mainly using real videos. Trust, transparency, and local expertise are the core values.
+
+Service area:
+Harohalli, Kanakapura Road, Ramanagara, and nearby regions.
+The website should clearly state that it helps Bangalore buyers find verified properties in these surrounding areas, but it does NOT deal directly in Bangalore city properties.
+
+Important location rule (VERY IMPORTANT):
+
+Do NOT show exact property locations, plot numbers, survey numbers, or exact Google Maps pins.
+
+Instead, display property locations using “Near XYZ landmark”, village/area name, and distance references (for example: “45 minutes from NICE Road”).
+
+If a map is used, it must show only an approximate area or landmark, clearly labeled as “Approximate Location”.
+
+Add a short transparency note stating that exact location and documents are shared only after direct contact to protect owner privacy and ensure verified site visits.
+
+Target audience:
+Serious property buyers looking for plots, sites, and farmhouses who value verified information and personal guidance.
+
+Website tone & design:
+
+Simple, professional, trustworthy
+
+Minimal animations
+
+Mobile-friendly
+
+Clear text and clean layout
+
+Pages required:
+
+Home Page
+
+Headline explaining verified, video-based real estate
+
+Clear mention of service area
+
+Short explanation of the offline-verification + online-presentation process
+
+Call-to-action buttons: Call / WhatsApp
+
+Properties Page
+
+List of available properties
+
+Each property card should show:
+
+Property type (plot / site / farmhouse)
+
+Approximate location using landmark reference
+
+Price range
+
+“View Details” button
+
+Property Details Page
+
+Embedded property video (YouTube unlisted placeholder)
+
+Approximate location text (near landmark)
+
+Optional map showing only landmark / area
+
+Property details: size, price range, access road, documents summary
+
+Agent contact: phone + WhatsApp
+
+Transparency note about exact location being shared after contact
+
+About Us Page
+
+Explain that this is a local, family-run real-estate service
+
+Emphasize honesty, physical verification, and personal involvement
+
+No exaggerated claims or marketing hype
+
+Contact Page
+
+Phone number
+
+WhatsApp button
+
+Service area reminder
+
+Simple enquiry message section (no login required)
+
+Footer / Disclaimer Section
+
+Disclaimer stating the business acts as a facilitator and broker
+
+Property details are based on owner information and physical verification
+
+Buyers are advised to conduct independent legal due diligence
+
+Technical requirements:
+
+Use HTML, CSS, and minimal JavaScript
+
+Static website (no backend, no database)
+
+Clean folder structure
+
+Easy to migrate later to Netlify or Vercel
+
+Strict rules:
+
+Do NOT add fake testimonials
+
+Do NOT add login systems, payment gateways, dashboards, or AI tools
+
+Do NOT claim pan-India or Bangalore city coverage
+
+Keep everything realistic, ethical, and trust-focused
+
+The final output should be a fully working multi-page MVP website suitable for a real local real-estate business demo.
